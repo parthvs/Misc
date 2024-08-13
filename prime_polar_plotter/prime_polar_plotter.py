@@ -55,7 +55,7 @@ while running:
         plot(j/scale,j,white)
     pygame.display.flip()
 
-    plot(j/scale,j,cyan)
+    plot(kk/scale,kk,cyan)
     
 
 pygame.quit()
